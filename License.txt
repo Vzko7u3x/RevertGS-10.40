@@ -1,0 +1,11 @@
+Copyright (c) 2026 Revert GameServer
+
+Tous droits réservés.
+
+Ce projet est un logiciel propriétaire. Aucun droit de copie,
+de modification, de distribution ou de publication n'est accordé
+sans autorisation écrite préalable du titulaire des droits.
+
+Toute diffusion non autorisée de tout ou partie de ce projet
+constitue une violation du droit d'auteur et pourra faire l'objet
+de mesures juridiques.
