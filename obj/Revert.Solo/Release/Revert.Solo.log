@@ -1,0 +1,4 @@
+﻿  Host.cpp
+C:\Users\3\Downloads\10.40-GS-main\RevertGS\src\Settle.hpp(269,4): error C3861: 'Reset' : identificateur introuvable
+  (compiler le fichier source '../../src/Host.cpp')
+  

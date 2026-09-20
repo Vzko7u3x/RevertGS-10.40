@@ -1,0 +1,16 @@
+﻿  Host.cpp
+C:\Users\3\Downloads\10.40-GS-main\RevertGS\src\Construct.hpp(233,30): error C2440: '=' : impossible de convertir de 'SDK::UFortItemDefinition *' en 'SDK::UFortResourceItemDefinition *'
+  (compiler le fichier source '../../src/Host.cpp')
+      C:\Users\3\Downloads\10.40-GS-main\RevertGS\src\Construct.hpp(233,30):
+      Cast de base en derived requiert dynamic_cast ou static_cast
+  
+  FN_Basic.cpp
+  FN_CoreUObject_functions.cpp
+  FN_Engine_functions.cpp
+  FN_FortniteGame_functions.cpp
+  FN_GameplayAbilities_functions.cpp
+  detours.cpp
+  disasm.cpp
+  modules.cpp
+  dllmain.cpp
+  Génération de code en cours...
