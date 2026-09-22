@@ -1,7 +1,5 @@
 #pragma once
 
-// Fortnite (10.40) SDK
-
 #include <Windows.h>
 #include <locale>
 #include <set>
