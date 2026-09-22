@@ -1,6 +1,6 @@
 #pragma once
 
-// Fortnite (11.00) SDK
+// Fortnite (10.40) SDK
 
 #include <Windows.h>
 #include <locale>
